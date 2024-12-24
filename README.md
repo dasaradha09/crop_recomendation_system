@@ -7,7 +7,13 @@ The system takes into account several factors such as soil type, climate, rainfa
 
 ------------
 
-## **Demo**
+## **Demo Video**
+
+
+
+https://github.com/user-attachments/assets/8377f5a0-ff17-4b29-b860-107e41323c0b
+
+
 
 
 -----------
